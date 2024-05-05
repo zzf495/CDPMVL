@@ -4,9 +4,10 @@
 
 CDPMVL is an algorithm that partitions data into three parts: (a) consensual part; (b) partial-view-shared part; and (c) specific part. It learns consensus and partial-view-shared knowledge for clustering. Some visualisation results on YALE are as follows (please refer to ```./visualization/``` for more).
 
-| <img src= './visualization/Fig/Yale_1.tiff' width='400px'/> | ![Yale_2](./README/Figure/Yale_2-1714903166087-1.gif) | ![Yale_3](./README/Figure/Yale_3-1714903167897-3.gif) |
-| ----------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| ![Yale_4](./README/Figure/Yale_4-1714903171254-5.gif)       | ![Yale_5](./README/Figure/Yale_5-1714903173252-7.gif) | ![Yale_6](./README/Figure/Yale_6-1714903174914-9.gif) |
+ | <img src= './visualization/Fig/Yale_1.tiff' width='400px'/> | ![Yale_2](./visualization/Fig/Yale_2.gif) | ![Yale_3](./visualization/Fig/Yale_3.gif) |
+| ------------------------- | ------------------------- | ------------------------- |
+ | ![Yale_4](./visualization/Fig/Yale_4.gif) | ![Yale_5](./visualization/Fig/Yale_5.gif) | ![Yale_6](./visualization/Fig/Yale_6.gif) |
+ 
 
 ## Example usage
 
