@@ -27,6 +27,6 @@ nohup matlab <demo_YALE.m> fill.out &
 ## Files
 
 ├─ **demo_YALE.m**: A demo that runs CDPMVL on YALE.  
-├─ CDPMVL: A series of functions that implement CDPMVL
-├─ utils: A series of auxiliary functions. 
-└─visualization: Some experimental results of visualization performed on CDPMVL.
+├─ CDPMVL: A series of functions that implement CDPMVL  
+├─ utils: A series of auxiliary functions.   
+└─visualization: Some experimental results of visualization performed on CDPMVL.  
