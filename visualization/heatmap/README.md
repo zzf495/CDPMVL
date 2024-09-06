@@ -1,6 +1,6 @@
 # Visualization experiments
 
-The visualization of CDP-MVC on seven datasets. It is worth noting that CDP-MVC converges (or reaches the maximum number of iterations) at the 4nd, 20nd, 14nd, 6nd, 5nd, 20nd, and 8nd iterations on ORL, MSRC_v1, Caltech101-7, Caltech101-20, CiteSeer, NUS_WIDE, Yale, and ALOI_100, respectively.
+The visualization of CDP-MVC on seven datasets. It is worth noting that CDP-MVC converges (or reaches the maximum number of iterations) at the 4nd, 20nd, 14nd, 6nd, 5nd, 20nd, and 8nd iterations on ORL, MSRC_v1, Caltech101-20, CiteSeer, NUS_WIDE, Yale, and ALOI_100, respectively.
 
 ## ORL (acc = 80.73%)
 
