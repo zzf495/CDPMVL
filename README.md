@@ -42,7 +42,7 @@ matlab draw_attention_example.m
 ├─ **demo_YALE.m**: A demo that runs CDPMVL on YALE.  
 ├─ CDPMVL: A series of functions that implement CDPMVL  
 ├─ utils: A series of auxiliary functions.   
-├─ attention_example: A demo that runs the visualization experiments. 
+├─ attention_example: A demo that runs the visualization experiments.  
 └─visualization: Some experimental results of visualization performed on CDPMVL.  
 
 
