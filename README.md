@@ -22,9 +22,31 @@ demo_YALE.m
 nohup matlab <demo_YALE.m> fill.out &
 ```
 
+## Example of drawing attention
+
+<img src= './attention_map.png' width='100%'/>
+
+Folder ```attention_example``` provides an example to draw the attention map for input images. The following code should generate the image without error, and you can find the images in the folder ```./attention_example/plot/```
+
+```python
+# Switch to folder
+cd ./attention_example
+# run the codes.
+matlab draw_attention_example.m
+```
+
+
+
 ## Files
 
 ├─ **demo_YALE.m**: A demo that runs CDPMVL on YALE.  
 ├─ CDPMVL: A series of functions that implement CDPMVL  
 ├─ utils: A series of auxiliary functions.   
+├─ attention_example: A demo that runs the visualization experiments. 
 └─visualization: Some experimental results of visualization performed on CDPMVL.  
+
+
+
+## Citation
+
+> L. Y. Teng and Z. F. Zheng, “CDPMVL: Consensus and Diversity-fusion Partial-view-shared Multi-view Learning,” Neurocomputing, 2024, in press.
