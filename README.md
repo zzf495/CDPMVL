@@ -49,4 +49,19 @@ matlab draw_attention_example.m
 
 ## Citation
 
-> L. Y. Teng and Z. F. Zheng, “CDPMVL: Consensus and Diversity-fusion Partial-view-shared Multi-view Learning,” Neurocomputing, 2024, in press.
+The paper can be accessed via [link](https://authors.elsevier.com/a/1jv7M3INukSKRz), and you can cite it directly:
+
+> L. Y. Teng and Z. F. Zheng, “CDPMVL: Consensus and Diversity-fusion Partial-view-shared Multi-view Learning,” Neurocomputing, 2024, doi: 10.1016/j.neucom.2024.128687
+
+or via `bib`:
+
+> @article{TENG2025128687,
+> title = {Consensus and diversity-fusion partial-view-shared multi-view learning},
+> journal = {Neurocomputing},
+> volume = {611},
+> pages = {128687},
+> year = {2025},
+> issn = {0925-2312},
+> doi = {10.1016/j.neucom.2024.128687},
+> author = {Luyao Teng and Zefeng Zheng},
+> }
