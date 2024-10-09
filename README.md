@@ -55,13 +55,13 @@ The paper can be accessed via [link](https://authors.elsevier.com/a/1jv7M3INukSK
 
 or via `bib`:
 
-> @article{TENG2025128687,
-> title = {Consensus and diversity-fusion partial-view-shared multi-view learning},
-> journal = {Neurocomputing},
-> volume = {611},
-> pages = {128687},
-> year = {2025},
-> issn = {0925-2312},
-> doi = {10.1016/j.neucom.2024.128687},
-> author = {Luyao Teng and Zefeng Zheng},
+> @article{TENG2025128687,  
+> title = {Consensus and diversity-fusion partial-view-shared multi-view learning},  
+> journal = {Neurocomputing},  
+> volume = {611},  
+> pages = {128687},  
+> year = {2025},  
+> issn = {0925-2312},  
+> doi = {10.1016/j.neucom.2024.128687},  
+> author = {Luyao Teng and Zefeng Zheng},  
 > }
